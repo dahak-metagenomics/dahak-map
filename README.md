@@ -42,10 +42,10 @@ Starting with a visual schematic:
 
 [dahak-bespin](https://github.com/charlesreid1/dahak-bespin) - automate the process of creating, preparing, and running dahak workflows on AWS infrastructure (goal: enable automated testing)
 
-[dahak-spy](https://github.com/charlesreid1/dahak-spy) - dotfiles and setup scripts for spy, a monitoring and logging node
+[dahak-spy](https://github.com/charlesreid1/dahak-spy) - dotfiles and setup scripts for spy, a monitoring and logging node (goal: enable monitoring, profiling, and logging at scale)
 
-[dahak-yeti](https://github.com/charlesreid1/dahak-yeti) - dotfiles and setup scripts for yeti, a beefy compute node that runs dahak workflows
+[dahak-yeti](https://github.com/charlesreid1/dahak-yeti) - dotfiles and setup scripts for yeti, a beefy compute node that runs dahak workflows (goal: facilitate automation of workflows)
 
-[dahak-taco](https://github.com/charlesreid1/dahak-taco) - command line interface for running dahak workflows
+[dahak-taco](https://github.com/charlesreid1/dahak-taco) - command line interface for running dahak workflows (goal: provide a user-friendly interface that wraps Snakemake)
 
-[dahak-flot](https://github.com/charlesreid1/dahak-flot) - Snakefiles that define dahak workflows
+[dahak-flot](https://github.com/charlesreid1/dahak-flot) - Snakefiles that define dahak workflows (goal: define workflows using Snakefiles)
