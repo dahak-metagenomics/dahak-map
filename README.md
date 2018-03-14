@@ -1,8 +1,8 @@
-# Dahak Roadmap
+# dahak-roadmap
 
-There are a lot of dahak repos croppiing up, so this repo just contains a roadmap explaining what all the other repos are for.
+Several new dahak repos have cropped up. This repo describes what each dahak repo is for.
 
-Here is a visual schematic:
+Starting with a visual schematic:
 
 ```
 +--------------------------------------------------------------------------------------+
