@@ -22,15 +22,6 @@ Starting with a visual schematic:
 |                                  |  |  dahak-taco:                           |  |    |
 |                                  |  |  command line tool for dahak workflows |  |    |
 |                                  |  |                                        |  |    |
-|                                  |  |                                        |  |    |
-|                                  |  |  +----------------------------------+  |  |    |
-|                                  |  |  |  Yeti Snakefiles                 |  |  |    |
-|                                  |  |  |  dahak-flot:                     |  |  |    |
-|                                  |  |  |  Snakefiles for dahak workflows  |  |  |    |
-|                                  |  |  |                                  |  |  |    |
-|                                  |  |  |                                  |  |  |    |
-|                                  |  |  +----------------------------------+  |  |    |
-|                                  |  |                                        |  |    |
 |                                  |  +----------------------------------------+  |    |
 |                                  |                                              |    |
 |                                  +----------------------------------------------+    |
@@ -47,5 +38,3 @@ Starting with a visual schematic:
 [dahak-yeti](https://github.com/charlesreid1/dahak-yeti) - dotfiles and setup scripts for yeti, a beefy compute node that runs dahak workflows (goal: facilitate automation of workflows)
 
 [dahak-taco](https://github.com/charlesreid1/dahak-taco) - command line interface for running dahak workflows (goal: provide a user-friendly interface that wraps Snakemake)
-
-[dahak-flot](https://github.com/charlesreid1/dahak-flot) - Snakefiles that define dahak workflows (goal: define workflows using Snakefiles)
