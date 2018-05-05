@@ -29,12 +29,12 @@ Starting with a visual schematic:
 +--------------------------------------------------------------------------------------+
 ```
 
-[dahak-roadmap](https://github.com/charlesreid1/dahak-roadmap) - you are here
+[dahak-roadmap](https://github.com/dahak-metagenomics/dahak-roadmap) - you are here
 
-[dahak-bespin](https://github.com/charlesreid1/dahak-bespin) - automate the process of creating, preparing, and running dahak workflows on AWS infrastructure (goal: enable automated testing)
+[dahak-bespin](https://github.com/dahak-metagenomics/dahak-bespin) - automate the process of creating, preparing, and running dahak workflows on AWS infrastructure (goal: enable automated testing)
 
-[dahak-spy](https://github.com/charlesreid1/dahak-spy) - dotfiles and setup scripts for spy, a monitoring and logging node (goal: enable monitoring, profiling, and logging at scale)
+[dahak-spy](https://github.com/dahak-metagenomics/dahak-spy) - dotfiles and setup scripts for spy, a monitoring and logging node (goal: enable monitoring, profiling, and logging at scale)
 
-[dahak-yeti](https://github.com/charlesreid1/dahak-yeti) - dotfiles and setup scripts for yeti, a beefy compute node that runs dahak workflows (goal: facilitate automation of workflows)
+[dahak-yeti](https://github.com/dahak-metagenomics/dahak-yeti) - dotfiles and setup scripts for yeti, a beefy compute node that runs dahak workflows (goal: facilitate automation of workflows)
 
-[dahak-taco](https://github.com/charlesreid1/dahak-taco) - command line interface for running dahak workflows (goal: provide a user-friendly interface that wraps Snakemake)
+[dahak-taco](https://github.com/dahak-metagenomics/dahak-taco) - command line interface for running dahak workflows (goal: provide a user-friendly interface that wraps Snakemake)
